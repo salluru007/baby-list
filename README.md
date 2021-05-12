@@ -34,7 +34,7 @@ The idea is to keep the number of things to buy as minimal as possible
 | [Nursing Pillow](https://www.babylist.com/gp/boppy-original-feeding-and-infant-support-pillow/2131/269204) | 40 | Can manage without it. But seems to be useful as both a lounger and pillow |
 | [Nipple Pads](https://www.amazon.com/gp/product/B01FY8VUKQ?colid=2PUHZE6LZ7WLU&coliid=I3GUS18PX1BT1S&ref=br_ADD_TO_CART_title_link) | | |
 | [Nipple Cream](https://www.amazon.com/dp/B000JVCBBG?psc=1&tag=hello-baby-20&th=1) | 10| |
-| Nursing Bras | | |
+| Nursing Bras | | Will probably not need this if working from home most of the time. Max count = 3|
 
 
 ### Clothing
