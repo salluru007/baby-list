@@ -25,6 +25,7 @@ The idea is to keep the number of things to buy as minimal as possible
 | Nipple Pads | | |
 | Bottle Sterilizer | 99.99| Babybrezza|
 | [Nipple Cream](https://www.amazon.com/dp/B000JVCBBG?psc=1&tag=hello-baby-20&th=1) | 10| |
+| Breast Milk Storage | | Buy something reusable that is compatible with the breast pump|
 
 ### Clothing
 ### Bathing
