@@ -31,6 +31,7 @@ The idea is to keep the number of things to buy as minimal as possible
 | [Bottles](https://www.babylist.com/gp/babylist-bottle-box/21117/661670) | | It seems babies prefer certain types of bottles. Once that is narrowed down and if more bottles are needed, just buy the one that the baby is drinking from|
 | [Pacifiers](https://www.babylist.com/gp/babylist-pacifier-box/21300/681363) | 26| |
 | Bottle Sterilizer | 99.99| Babybrezza|
+| [Bottle Cleaner](https://www.amazon.com/OXO-Tot-Bottle-Nipple-Cleaner/dp/B0771FFWQ2/ref=dp_prsubs_2?pd_rd_i=B0771FFWQ2&psc=1)| 8 | A regular bottle cleaner works if you don't have one. But you will need something to clean the small parts |
 | [Nursing Pillow](https://www.babylist.com/gp/boppy-original-feeding-and-infant-support-pillow/2131/269204) | 40 | Can manage without it. But seems to be useful as both a lounger and pillow |
 | [Nipple Pads](https://www.amazon.com/gp/product/B01FY8VUKQ?colid=2PUHZE6LZ7WLU&coliid=I3GUS18PX1BT1S&ref=br_ADD_TO_CART_title_link) | | |
 | [Nipple Cream](https://www.amazon.com/dp/B000JVCBBG?psc=1&tag=hello-baby-20&th=1) | 10| |
