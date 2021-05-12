@@ -13,7 +13,7 @@ The idea is to keep the number of things to buy as minimal as possible
 ### Nursery
 | Item | New | Description|
 |------|-----|------------|
-| Crib || Try getting used|
+| [Crib](https://www.ikea.com/us/en/p/sniglar-crib-beech-50248541/) || Try getting used|
 | Mattress | | |
 | Fitted Sheets | |
 ### Health & Safety
