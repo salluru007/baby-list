@@ -19,7 +19,7 @@ The idea is to keep the number of things to buy as minimal as possible
 |------|-----|------------|
 |[Drying rack](https://smile.amazon.com/Boon-Lawn-Countertop-Drying-Green/dp/B004OR1DTC) | 19 | To dry those small parts |
 | Breast Pump | | Covered by the Afforable Care Act |
-| [Bottles](https://www.babylist.com/gp/babylist-bottle-box/21117/661670) | | |
+| [Bottles](https://www.babylist.com/gp/babylist-bottle-box/21117/661670) | | It seems babies prefer certain types of bottles. Once that is narrowed down and if more bottles are needed, just buy the one that the baby is drinking from|
 | [Pacifiers](https://www.babylist.com/gp/babylist-pacifier-box/21300/681363) | 26| |
 | [Nursing Pillow](https://www.babylist.com/gp/boppy-original-feeding-and-infant-support-pillow/2131/269204) | 40 | Can manage without it. But seems to be useful as both a lounger and pillow |
 | Nipple Pads | | |
