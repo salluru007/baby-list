@@ -14,6 +14,13 @@ The idea is to keep the number of things to buy as minimal as possible
 ### Health & Safety
 ### Transportation
 ### Diapering
+| Item | New | Description|
+|------|-----|------------|
+| [Diaper Pail](https://www.babylist.com/gp/ubbi-steel-diaper-pail/251/583?reg_item_id=222139226&registry_id=3258583) | | Can use a regular dustbin. Will come in handy if you live in small spaces, since it seems to keep the odor out|
+| Diaper Cream | | |
+| Diapers | | |
+| Diaper Bag| | Can buy used|
+| Portable Diaper Bag | | Not necessary, but can be helpful|
 ### Feeding
 | Item | New | Description|
 |------|-----|------------|
