@@ -23,7 +23,8 @@ The idea is to keep the number of things to buy as minimal as possible
 | [Pacifiers](https://www.babylist.com/gp/babylist-pacifier-box/21300/681363) | 26| |
 | [Nursing Pillow](https://www.babylist.com/gp/boppy-original-feeding-and-infant-support-pillow/2131/269204) | 40 | Can manage without it. But seems to be useful as both a lounger and pillow |
 | Nipple Pads | | |
-| Bottle Sterlizer | | |
+| Bottle Sterilizer | 99.99| Babybrezza|
+| [Nipple Cream](https://www.amazon.com/dp/B000JVCBBG?psc=1&tag=hello-baby-20&th=1) | 10| |
 
 ### Clothing
 ### Bathing
