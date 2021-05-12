@@ -11,6 +11,11 @@ You will be braindead a lot. When you are not braindead, make checklists that yo
 ## Tools
 The idea is to keep the number of things to buy as minimal as possible
 ### Nursery
+| Item | New | Description|
+|------|-----|------------|
+| Crib || Try getting used|
+| Mattress | | |
+| Fitted Sheets | |
 ### Health & Safety
 ### Transportation
 ### Diapering
