@@ -21,6 +21,7 @@ The idea is to keep the number of things to buy as minimal as possible
 | Diapers | | |
 | Diaper Bag| | Can buy used|
 | Portable Diaper Bag | | Not necessary, but can be helpful|
+| Diaper Caddy | | A regular basket will also be useful | 
 ### Feeding
 | Item | New | Description|
 |------|-----|------------|
