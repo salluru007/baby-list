@@ -11,31 +11,30 @@ You will be braindead a lot. When you are not braindead, make checklists that yo
 ## Tools
 The idea is to keep the number of things to buy as minimal as possible
 ### Nursery
-| Item | New | Description|
+| Item | Need | Description|
 |------|-----|------------|
-| [Crib](https://www.ikea.com/us/en/p/sniglar-crib-beech-50248541/) || Try getting used|
-| Mattress | | Buy new|
-| Fitted Sheets | |
+| [Crib](https://www.ikea.com/us/en/p/sniglar-crib-beech-50248541/) |No| Try getting used|
+| Mattress |No | Buy new|
+| Fitted Sheets | No|
 ### Health & Safety
 ### Transportation
 ### Diapering
-| Item | New | Description|
+| Item | Need| Description|
 |------|-----|------------|
-| [Diaper Pail](https://www.babylist.com/gp/ubbi-steel-diaper-pail/251/583?reg_item_id=222139226&registry_id=3258583) | | Can use a regular dustbin. Will come in handy if you live in small spaces, since it seems to keep the odor out|
-| Diaper Cream | | |
-| Diapers | | |
-| Diaper Bag| | Can buy used|
-| Portable Diaper Bag | | Not necessary, but can be helpful|
-| Diaper Caddy | | A regular basket will also be useful | 
+| [Diaper Pail](https://www.babylist.com/gp/ubbi-steel-diaper-pail/251/583?reg_item_id=222139226&registry_id=3258583) | No| Can use a regular dustbin. Will come in handy if you live in small spaces, since it seems to keep the odor out|
+| Diaper Cream | Yes| |
+| Diapers |Yes | |
+| Diaper Bag|Yes | Can buy used|
+| Portable Diaper Bag | NA| Not necessary, but can be helpful|
+| Diaper Caddy |No | A regular basket will also be useful | 
 ### Feeding
-| Item | New | Description|
+| Item | Need | Description|
 |------|-----|------------|
-|[Drying rack](https://smile.amazon.com/Boon-Lawn-Countertop-Drying-Green/dp/B004OR1DTC) | 19 | To dry those small parts |
 | Breast Pump | | Covered by the Afforable Care Act |
 | Breast Milk Storage | | Buy something reusable that is compatible with the breast pump|
-| [Bottles](https://www.babylist.com/gp/babylist-bottle-box/21117/661670) | | It seems babies prefer certain types of bottles. Once that is narrowed down and if more bottles are needed, just buy the one that the baby is drinking from|
-| [Pacifiers](https://www.babylist.com/gp/babylist-pacifier-box/21300/681363) | 26| |
-| Bottle Sterilizer | 99.99| Babybrezza|
+| [Bottles](https://www.babylist.com/gp/babylist-bottle-box/21117/661670) | No | Have lots from first baby |
+| [Pacifiers](https://www.babylist.com/gp/babylist-pacifier-box/21300/681363) | 26| Have lots from first baby|
+| Bottle Sterilizer | No | Babybrezza|
 | [Bottle Cleaner](https://www.amazon.com/OXO-Tot-Bottle-Nipple-Cleaner/dp/B0771FFWQ2/ref=dp_prsubs_2?pd_rd_i=B0771FFWQ2&psc=1)| 8 | A regular bottle cleaner works if you don't have one. But you will need something to clean the small parts |
 | Dapple Dish Soap| | Order on amazon|
 | [Nursing Pillow](https://www.babylist.com/gp/boppy-original-feeding-and-infant-support-pillow/2131/269204) | 40 | Can manage without it. But seems to be useful as both a lounger and pillow |
